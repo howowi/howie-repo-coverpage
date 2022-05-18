@@ -1,2 +1,2 @@
-# howie-repo-coverpage
-Cover page for all the good stuff in my repo
+# Bringing Glory Back to Ops with xOps
+This page focuses on xOps practical implementations.
